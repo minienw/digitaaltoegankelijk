@@ -1,0 +1,3 @@
+# digitaaltoegankelijk
+Bevat documenten over digitale toegankelijkheid
+20211012_rapporten toegankelijkheidsonderzoek toegevoegd
